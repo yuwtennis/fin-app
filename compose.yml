@@ -1,0 +1,10 @@
+services:
+  db:
+    image: 'postgres:17-trixie'
+    container_name: 'fin-app-db'
+    environment:
+      POSTGRES_USER: 'finapp'
+      POSTGRES_PASSWORD: 'finapp'
+      POSTGRES_DB: 'finapp'
+    ports:
+      - '5432:5432'
