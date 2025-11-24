@@ -1,6 +1,6 @@
 # fin-app
 
-This repository is intended for practising [financial app for NextJS](https://nextjs.org/learn/dashboard-app/getting-started).
+This repository is intended for practising [financial app for Next.js](https://nextjs.org/learn/dashboard-app/getting-started).
 
 ## Next.js App Router Course - Starter
 
